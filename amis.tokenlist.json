@@ -1,6 +1,6 @@
 {
   "name": "Amis",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png",
   "keywords": [
     "amis",
     "defi"
@@ -735,7 +735,7 @@
       "name": "HONEY",
       "symbol": "HNY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+      "logoURI": "https://1hive.org/honey.0dc88779.svg"
     },
     {
       "chainId": 100,
@@ -743,7 +743,7 @@
       "name": "Uniswap on xDai",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+      "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
     },
     {
       "chainId": 100,
@@ -751,7 +751,7 @@
       "name": "Wrapped Ether on xDai",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     }
   ],
   "version": {
