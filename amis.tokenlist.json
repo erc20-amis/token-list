@@ -1,11 +1,11 @@
 {
   "name": "Amis",
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
     "amis",
     "defi"
   ],
-  "timestamp": "2020-10-13T12:37:57.000+00:00",
+  "timestamp": "2020-10-13T09:37:57.000+00:00",
   "tokens": [
  
     {
@@ -735,7 +735,7 @@
       "name": "HONEY",
       "symbol": "HNY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x949bed886c739f1a3273629b3320db0c5024c719/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
     {
       "chainId": 100,
@@ -743,7 +743,7 @@
       "name": "Uniswap on xDai",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x949bed886c739f1a3273629b3320db0c5024c719/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
     {
       "chainId": 100,
@@ -751,7 +751,7 @@
       "name": "	Wrapped Ether on xDai",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x949bed886c739f1a3273629b3320db0c5024c719/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     }
   ],
   "version": {
