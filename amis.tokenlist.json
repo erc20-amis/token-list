@@ -1,6 +1,6 @@
 {
   "name": "Amis",
-  "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/amis-interface.svg",
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png",
   "keywords": [
     "amis",
     "defi"
@@ -14,7 +14,7 @@
       "name": "AMIS",
       "symbol": "AMIS",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_AMIS.svg"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
     {
       "chainId": 1,
@@ -711,7 +711,7 @@
       "name": "AMIS",
       "symbol": "AMIS",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_AMIS.svg"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
     {
       "chainId": 100,
@@ -719,7 +719,7 @@
       "name": "AMIS on xDai",
       "symbol": "AMIS",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_AMIS.svg"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
     {
       "chainId": 100,
@@ -743,7 +743,7 @@
       "name": "Uniswap on xDai",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_HNY.svg"
+      "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_UNI.svg"
     },
     {
       "chainId": 100,
@@ -751,7 +751,7 @@
       "name": "	Wrapped Ether on xDai",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_HNY.svg"
+      "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_WETH.svg"
     }
   ],
   "version": {
