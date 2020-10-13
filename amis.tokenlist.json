@@ -748,7 +748,7 @@
     {
       "chainId": 100,
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-      "name": "	Wrapped Ether on xDai",
+      "name": "Wrapped Ether on xDai",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
