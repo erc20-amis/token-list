@@ -7,10 +7,12 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI": "ipfs://QmV7cTdUEUiLECfvwneeSeonQzYqEsWUEbL3JcW36Vkp8j",
   "keywords": [
     "amis",
-    "token"
+    "token",
+    "lists",
+    "defi"
   ],
   "tokens": [
     {
@@ -30,12 +32,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.png"
     },
     {
-      "chainId": 1,
-      "address": "0x949bed886c739f1a3273629b3320db0c5024c719",
       "name": "AMIS",
+      "address": "0x949bed886c739f1a3273629b3320db0c5024c719",
       "symbol": "AMIS",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+      "chainId": 1,
+      "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA"
     },    
     {
       "name": "Amon",
@@ -1134,51 +1136,51 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
     },
     {
-      "chainId": 61,
+      "name": "AMIS on ETC",
       "address": "0xD8EBe4E6aC8d3c85E2f243e11e8B96C9B12C85Af",
-      "name": "AMIS",
       "symbol": "AMIS",
       "decimals": 9,
+      "chainId": 61,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
     {
-      "chainId": 100,
-      "address": "0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93",
       "name": "AMIS on xDai",
+      "address": "0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93",
       "symbol": "AMIS",
       "decimals": 9,
+      "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
     {
-      "chainId": 100,
-      "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
       "name": "USD Coin on xDai",
+      "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
       "symbol": "USDC",
       "decimals": 6,
+      "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/erc20-amis/token-list/master/assets/asset_USDC.svg"
     }, 	 
     {
-      "chainId": 100,
-      "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
       "name": "HONEY",
+      "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
       "symbol": "HNY",
       "decimals": 18,
+      "chainId": 100,
       "logoURI": "https://1hive.org/honey.0dc88779.svg"
     },
     {
-      "chainId": 100,
-      "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
       "name": "Uniswap on xDai",
+      "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
       "symbol": "UNI",
       "decimals": 18,
+      "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
     },
     {
-      "chainId": 100,
-      "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
       "name": "Wrapped Ether on xDai",
+      "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
       "symbol": "WETH",
       "decimals": 18,
+      "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     }    
   ]
