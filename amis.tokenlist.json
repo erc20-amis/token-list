@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
+  "logoURI": "https://ipfs.io/ipfs/QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
   "keywords": [
     "amis",
     "token",
@@ -37,7 +37,7 @@
       "symbol": "AMIS",
       "decimals": 9,
       "chainId": 1,
-      "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA"
+      "logoURI": "https://ipfs.io/ipfs/QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA"
     },    
     {
       "name": "Amon",
