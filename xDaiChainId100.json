@@ -7,7 +7,6 @@
    ],
    "timestamp": "2020-09-03T12:37:57.000+00:00",
    "tokens": [
-
     {
       "name": "AMIS on xDai",
       "address": "0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93",
@@ -47,4 +46,6 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
-    } 
+    }   
+   ]
+}
