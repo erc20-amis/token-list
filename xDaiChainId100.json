@@ -1,11 +1,10 @@
-
 {
   "name": "Amis 100",
-  "timestamp": "2020-12-12T20:34:49.161Z",
+  "timestamp": "2020-12-12T02:34:49.161Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -378,6 +377,14 @@
       "name": "Wrapped Ether on xDai",
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
       "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped ETC on xDai",
+      "address": "0xe864579d769c54bff6b3eb07f182e18ec6968541",
+      "symbol": "WETC",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
