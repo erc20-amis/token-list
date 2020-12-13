@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2020-12-13T04:34:49.161Z",
+  "timestamp": "2020-12-13T05:24:49.161Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -60,6 +60,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/12596/small/bidao.png"
+    },
+        {
+      "name": "Celsius on xDai",
+      "address": "0x0acd91f92fe07606ab51ea97d8521e29d110fd09",
+      "symbol": "CEL",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d/logo.png"
     },
     {
       "name": "coin_artist on xDai",
@@ -118,9 +126,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
     },
     {
-      "name": "Energy Web Token on xDai",
+      "name": "Energy Web Token Bridged on xDai",
       "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
-      "symbol": "EWT",
+      "symbol": "EWTB",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5268.png"
