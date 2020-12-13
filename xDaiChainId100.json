@@ -119,6 +119,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
     },
     {
+      "name": "Energy Web Token on xDai",
+      "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
+      "symbol": "EWT",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5268.png"
+    },
+    {
       "name": "FalconSwap Token on xDai",
       "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
       "symbol": "FSW",
@@ -301,6 +309,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    },
+    {
+      "name": "SushiToken on xDai",
+      "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
     },
     {
       "name": "Synthetix USD on xDai",
