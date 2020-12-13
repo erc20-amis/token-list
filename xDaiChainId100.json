@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2020-12-13T05:24:49.161Z",
+  "timestamp": "2020-12-13T05:30:49.161Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -54,6 +54,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/1019/small/AST.png"
     },
     {
+      "name": "Base Protocol on xDai",
+      "address": "0x699d001ef13b15335193bc5fad6cfc6747eee8be",
+      "symbol": "BASE",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/13265/small/200x200green.png?1607650121"
+    },
+    {
       "name": "Bidao on xDai",
       "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
       "symbol": "BID",
@@ -61,7 +69,7 @@
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/12596/small/bidao.png"
     },
-        {
+    {
       "name": "Celsius on xDai",
       "address": "0x0acd91f92fe07606ab51ea97d8521e29d110fd09",
       "symbol": "CEL",
