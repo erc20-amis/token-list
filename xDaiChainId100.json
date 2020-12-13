@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2020-12-12T02:34:49.161Z",
+  "timestamp": "2020-12-13T04:34:49.161Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -119,7 +119,7 @@
     },
     {
       "name": "Energy Web Token on xDai",
-      "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
+      "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
       "symbol": "EWT",
       "decimals": 18,
       "chainId": 100,
