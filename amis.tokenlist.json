@@ -1,5 +1,5 @@
 {
-  "name": "Amis Token Lists",
+  "name": "Amis Token List",
   "timestamp": "2020-12-12T10:12:46.685Z",
   "version": {
     "major": 1,
@@ -998,6 +998,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped ETC",
+      "address": "0x86aabcc646f290b9fc9bd05ce17c3858d1511da1",
+      "symbol": "WETC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/453/small/ethereum-classic-logo.png?1547034169"
     },
     {
       "name": "CryptoFranc",
