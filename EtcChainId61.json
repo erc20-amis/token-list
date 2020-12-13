@@ -1,9 +1,9 @@
 {
   "name": "Amis Token List Chain Id 61",
-  "timestamp": "2020-12-13T10:12:46.685Z",
+  "timestamp": "2020-12-13T10:25:46.685Z",
   "version": {
-    "major": 1,
-    "minor": 6,
+    "major": 61,
+    "minor": 0,
     "patch": 1
   },
   "tags": {},
@@ -15,7 +15,6 @@
     "defi"
   ],
   "tokens": [
-
 
     {
       "name": "AMIS on ETC",
