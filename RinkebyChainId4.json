@@ -1,8 +1,8 @@
 {
-    "name": "Amis Token List Chain Id 3",
+    "name": "Amis Token List Chain Id 4",
     "timestamp": "2020-12-13T10:25:46.685Z",
     "version": {
-      "major": 3,
+      "major": 4,
       "minor": 0,
       "patch": 1
     },
@@ -22,6 +22,14 @@
       "decimals": 18,
       "chainId": 4,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+    },
+    {
+      "name": "BRICKS",
+      "address": "0xe0d8d7b8273de14e628d2f2a4a10f719f898450a",
+      "symbol": "BRICK",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://assets.coingecko.com/coins/images/11223/small/Brick.png?1589620469"
     },
     {
       "name": "Maker",
