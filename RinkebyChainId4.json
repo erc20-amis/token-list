@@ -4,7 +4,7 @@
     "version": {
       "major": 4,
       "minor": 0,
-      "patch": 4
+      "patch": 5
     },
     "tags": {},
     "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -67,6 +67,14 @@
       "name": "ZRX",
       "address": "0xddea378a6ddc8afec82c36e9b0078826bf9e68b6",
       "symbol": "ZRX",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "ChainLink",
+      "address": "0x01be23585060835e02b77ef475b0cc51aa1e0709",
+      "symbol": "LINK",
       "decimals": 18,
       "chainId": 4,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
