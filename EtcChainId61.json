@@ -1,10 +1,10 @@
 {
   "name": "Amis Token List Chain Id 61",
-  "timestamp": "2020-12-13T10:25:46.685Z",
+  "timestamp": "2020-12-14T10:25:46.685Z",
   "version": {
     "major": 61,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -60,7 +60,7 @@
       "name": "Saturn Classic DAO Token",
       "address": "0xAC55641Cbb734bdf6510d1bBd62E240c2409040f",
       "symbol": "STRN",
-      "decimals": 18,
+      "decimals": 4,
       "chainId": 61,
       "logoURI": "https://assets.coingecko.com/coins/images/9502/small/Saturn-Classic-Logo200x200.png?1568152676"
     }
