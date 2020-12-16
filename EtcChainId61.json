@@ -23,7 +23,46 @@
       "decimals": 9,
       "chainId": 61,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+    },
+    {
+      "name": "UniversalCoin",
+      "address": "0xD8EBe4E6aC8d3c85E2f243e11e8B96C9B12C85Af",
+      "symbol": "UVC",
+      "decimals": 5,
+      "chainId": 61,
+      "logoURI": "https://assets.coingecko.com/coins/images/9856/small/UVC.png?1572833687"
+    },
+    {
+      "name": "Gastoken.io",
+      "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+      "symbol": "GST2",
+      "decimals": 2,
+      "chainId": 61,
+      "logoURI": "https://assets.coingecko.com/coins/images/10779/small/gas.png?1583466756"
+    },
+    {
+      "name": "ONEX Network",
+      "address": "0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
+      "symbol": "ONEX",
+      "decimals": 18,
+      "chainId": 61,
+      "logoURI": "https://assets.coingecko.com/coins/images/7749/small/lW0XMVAK_400x400.jpg?1550194696"
+    },
+    {
+      "name": "Bitcoin Classic Token",
+      "address": "0x1BE6D61B1103D91F7f86D47e6ca0429259A15ff0",
+      "symbol": "BCT",
+      "decimals": 8,
+      "chainId": 61,
+      "logoURI": "https://assets.coingecko.com/coins/images/7927/small/bitcoin-classic.png?1551946901"
+    },
+    {
+      "name": "Saturn Classic DAO Token",
+      "address": "0xAC55641Cbb734bdf6510d1bBd62E240c2409040f",
+      "symbol": "STRN",
+      "decimals": 18,
+      "chainId": 61,
+      "logoURI": "https://assets.coingecko.com/coins/images/9502/small/Saturn-Classic-Logo200x200.png?1568152676"
     }
-
   ]
 }
