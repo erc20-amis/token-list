@@ -1,10 +1,10 @@
 {
-    "name": "MultiChain TokenLists",
-    "timestamp": "2020-12-17T10:57:46.685Z",
+    "name": "MultiChain TokenList",
+    "timestamp": "2020-12-17T11:57:46.685Z",
     "version": {
       "major": 0,
       "minor": 1,
-      "patch": 3
+      "patch": 4
     },
     "tags": {},
     "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
