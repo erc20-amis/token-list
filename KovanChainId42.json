@@ -1,10 +1,10 @@
 {
     "name": "Amis List Kovan",
-    "timestamp": "2020-12-18T08:50:46.685Z",
+    "timestamp": "2020-12-18T09:50:46.685Z",
     "version": {
       "major": 42,
-      "minor": 1,
-      "patch": 5
+      "minor": 2,
+      "patch": 6
     },
     "tags": {},
     "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -62,6 +62,14 @@
       "decimals": 18,
       "chainId": 42,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
-    }    
+    },   
+    {
+      "name": "ZRX",
+      "address": "0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "chainId": 42,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    }
     ]
 }     
