@@ -1,10 +1,10 @@
 {
     "name": "Amis List Kovan",
-    "timestamp": "2020-12-18T08:45:46.685Z",
+    "timestamp": "2020-12-18T08:50:46.685Z",
     "version": {
       "major": 42,
       "minor": 1,
-      "patch": 4
+      "patch": 5
     },
     "tags": {},
     "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -19,7 +19,7 @@
       "name": "AMIS",
       "address": "0x7161f09a6ae81b546bebc04b24629c4f3dad746f",
       "symbol": "AMIS",
-      "decimals": 18,
+      "decimals": 9,
       "chainId": 42,
       "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA"
     },
