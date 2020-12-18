@@ -1,10 +1,10 @@
 {
     "name": "Amis List Kovan",
-    "timestamp": "2020-12-13T11:35:46.685Z",
+    "timestamp": "2020-12-18T08:35:46.685Z",
     "version": {
       "major": 42,
-      "minor": 0,
-      "patch": 2
+      "minor": 1,
+      "patch": 3
     },
     "tags": {},
     "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
