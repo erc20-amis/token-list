@@ -1,6 +1,6 @@
 {
   "name": "Amis 100",
-  "timestamp": "2020-12-13T05:35:49.161Z",
+  "timestamp": "2021-01-16T05:35:49.161Z",
   "version": {
     "major": 3,
     "minor": 0,
@@ -165,6 +165,14 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
     },
+    {
+      "name": "Graph on xDai",
+      "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
+      "symbol": "GRT",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
+    },    
     {
       "name": "HEX on xDai",
       "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
