@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-01-16T12:35:49.161Z",
+  "timestamp": "2021-01-27T23:35:49.161Z",
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 7
   },
   "tags": {},
@@ -54,6 +54,22 @@
       "logoURI": "https://assets.coingecko.com/coins/images/1019/small/AST.png"
     },
     {
+      "name": "Autopia Token on xDai",
+      "address": "0xcaE40062a887581A3d1661d0AC2b481c32e3E938",
+      "symbol": "AUT",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
+    },
+    {
+      "name": "Badger on xDai",
+      "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
+      "symbol": "BADGER",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/Badger-Finance/badger-system/master/images/badger-logo.png"
+    },    
+    {
       "name": "Base Protocol on xDai",
       "address": "0x699d001ef13b15335193bc5fad6cfc6747eee8be",
       "symbol": "BASE",
@@ -94,6 +110,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
     },
     {
+      "name": "Cream Token on xDai",
+      "address": "0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf",
+      "symbol": "Cream",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf/logo.png"
+    },    
+    {
       "name": "Curve DAO Token on xDai",
       "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
       "symbol": "CRV",
@@ -117,6 +141,22 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
+    {
+      "name": "AMISDEXP",
+      "address": "0x9C374CC5da1D7EE668D4080287b104B865F3089e",
+      "symbol": "DEXP",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+    },
+    {
+      "name": "COLD TRUTH CASH",
+      "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
+      "symbol": "COLD",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://user-images.githubusercontent.com/77219460/105215847-eda9ed00-5ba5-11eb-83a4-f8ea6b9bd7bb.png"
+    },    
     {
       "name": "Donut on xDai",
       "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
@@ -245,6 +285,14 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
     },
+    {
+      "name": "Unifty on xDai",
+      "address": "0x1A186E7268F3Ed5AdFEa6B9e0655f70059941E11",
+      "symbol": "NIF",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://unifty.io/unifty3.png"
+    },    
     {
       "name": "OM Token on xDai",
       "address": "0x309Bc6DbcbFB9c84D26FDF65E8924367efCCBdb9",
