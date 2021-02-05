@@ -1,6 +1,6 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-02-06T04:35:49.161Z",
+  "timestamp": "2021-02-06T05:35:49.161Z",
   "version": {
     "major": 3,
     "minor": 3,
@@ -120,7 +120,7 @@
     {
       "name": "Cream Token on xDai",
       "address": "0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf",
-      "symbol": "Cream",
+      "symbol": "CREAM",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
