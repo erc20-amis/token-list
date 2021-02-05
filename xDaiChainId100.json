@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-01-27T23:35:49.161Z",
+  "timestamp": "2021-02-06T04:35:49.161Z",
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 7
   },
   "tags": {},
@@ -94,6 +94,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/3263/small/New_CEL_Token_Logo.jpg?1600913901"
     },
     {
+      "name": "SwissBorg Token on xDai",
+      "address": "0x76eaFffA1873a8aCd43864B66A728bd873c5E08a",
+      "symbol": "CHSB",
+      "decimals": 8,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/swissborg_28_3.png"
+    },    
+    {
       "name": "coin_artist on xDai",
       "address": "0x14411aecA652F5131834Bf0c8fF581B5dDf3bc03",
       "symbol": "COIN",
@@ -115,7 +123,7 @@
       "symbol": "Cream",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf/logo.png"
+      "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
     },    
     {
       "name": "Curve DAO Token on xDai",
@@ -326,12 +334,28 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x607C794cDa77efB21F8848B7910ecf27451Ae842/logo.png"
     },
     {
+      "name": "OCEAN Token on xDai",
+      "address": "0x51732a6fC4673d1aCca4c047F5465922716508Ad",
+      "symbol": "OCEAN",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/oceantoken_28.png"
+    },
+    {
+      "name": "OMGToken on xDai",
+      "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
+      "symbol": "OMG",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/OMGNetwork_32.png"
+    },      
+    {
       "name": "POA20 on xDai",
       "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
       "symbol": "POA20",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
+      "logoURI": "https://etherscan.io/token/images/poa_28_2.png"
     },
     {
       "name": "Particle",
@@ -342,6 +366,14 @@
       "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
     },
     {
+      "name": "Rarible on xDai",
+      "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
+      "symbol": "RARI",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/rarible_32.png"
+    },    
+    {
       "name": "Republic Token on xDai",
       "address": "0x0da1a02cdf84c44021671d183d616925164e08aa",
       "symbol": "REN",
@@ -350,6 +382,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
     },
     {
+      "name": "renBTC on xDai",
+      "address": "0x4A88248BAa5b39bB4A9CAa697Fb7f8ae0C3f0ddB",
+      "symbol": "renBTC",
+      "decimals": 8,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
+    },    
+    {
       "name": "renZEC on xDai",
       "address": "0x5F2852AFd20C39849f6f56F4102b8c29Ee141ADD",
       "symbol": "renZEC",
@@ -357,6 +397,14 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
     },
+    {
+      "name": "Robonomics on xDai",
+      "address": "0xf54b47B00B6916974c73B81B7d9929a4f443DB49",
+      "symbol": "XRT",
+      "decimals": 9,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/robonomics_28.png"
+    },      
     {
       "name": "Sai on xDai",
       "address": "0xc439E5B1DEe4f866B681E7c5E5dF140aA47fBf19",
@@ -508,6 +556,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
-    }
+    },
+    {
+      "name": "YIELD App on xDai",
+      "address": "0xa2fec95b3d3fecb39098e81f108533e1abf22ccf",
+      "symbol": "YLD",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/yieldapp_32.png"
+    }    
   ]
 }
