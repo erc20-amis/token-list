@@ -313,14 +313,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12151/small/OM_3D_whtbg.png"
     },
     {
-      "name": "OmiseGo on xDai",
-      "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
-      "symbol": "OMG",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
-    },
-    {
       "name": "OWL on xDai",
       "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
       "symbol": "OWL",
