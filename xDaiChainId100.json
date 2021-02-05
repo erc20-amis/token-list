@@ -4,15 +4,12 @@
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
   "keywords": [
-    "tokenlists",
-    "uni",
-    "hny",
-    "amis",
+    "amistokenlists",
     "xdai"
   ],
   "tokens": [
