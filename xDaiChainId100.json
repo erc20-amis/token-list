@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-02-06T05:35:49.161Z",
+  "timestamp": "2021-02-10T10:35:49.161Z",
   "version": {
     "major": 3,
-    "minor": 3,
+    "minor": 4,
     "patch": 9
   },
   "tags": {},
@@ -246,6 +246,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png"
     },
     {
+      "name": "JPY Coin on xDai",
+      "address": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
+      "symbol": "JPY",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/jpycoin_32.png"
+    },    
+    {
       "name": "Kyber Network Crystal on xDai",
       "address": "0x1534fB3E82849314360C267FE20Df3901A2ED3f9",
       "symbol": "KNC",
@@ -293,6 +301,14 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
     },
+    {
+      "name": "Matic on xDai",
+      "address": "0x7122d7661c4564b7c6cd4878b06766489a6028a2",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/matictoken_28.png"
+    },    
     {
       "name": "Unifty on xDai",
       "address": "0x1A186E7268F3Ed5AdFEa6B9e0655f70059941E11",
@@ -454,6 +470,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e/logo.png"
     },
     {
+      "name": "UniCrypt on xDai",
+      "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
+      "symbol": "UNCX",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/UniCrypt_32.png"
+    },
+    {
       "name": "Uniswap on xDai",
       "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
       "symbol": "UNI",
@@ -556,6 +580,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/yieldapp_32.png"
-    }    
+    },
+    {
+      "name": "ZRX on xDai",
+      "address": "0x226bcf0e417428a25012d0fa2183d37f92bcedf6",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
+    }      
   ]
 }
