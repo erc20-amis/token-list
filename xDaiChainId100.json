@@ -1,8 +1,8 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-02-20T12:45:49.161Z",
+  "timestamp": "2021-02-21T00:05:49.161Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 4,
     "patch": 10
   },
@@ -526,6 +526,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95172ccBe8344fecD73D0a30F54123652981BD6F/logo.png"
     },
     {
+      "name": "Binance-Peg Litecoin Token on xDai",
+      "address": "0x3c6d36d434f747B56e80eBEbea7b2082a443306b",
+      "symbol": "LTC",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+    },
+    {
       "name": "Livepeer Token on xDai",
       "address": "0x7DB0be7A41b5395268e065776e800e27181C81AB",
       "symbol": "LPT",
@@ -588,6 +596,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/metronome_28.png"
+    },
+    {
+      "name": "Kitten on xDai",
+      "address": "0xda623b1bc7ea3edbbc69ae229334e6d46a8aa307",
+      "symbol": "MEW",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png"
     },
     {
       "name": "Maker on xDai",
@@ -1068,6 +1084,14 @@
       "decimals": 9,
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/robonomics_28.png"
+    },
+    {
+      "name": "Binance-Peg XRP Token on xDai",
+      "address": "0x458CBFb4Daf5EE16CE14b2bC2633B1aF1Fe8981b",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://bscscan.com/token/images/xrp_32.png"
     },
     {
       "name": "XY Oracle on xDai",
