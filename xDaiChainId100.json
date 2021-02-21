@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-02-20T12:35:49.161Z",
+  "timestamp": "2021-02-20T12:45:49.161Z",
   "version": {
     "major": 4,
     "minor": 4,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -347,7 +347,7 @@
       "symbol": "DOT",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
+      "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
     },
     {
       "name": "Enigma on xDai",
@@ -1115,7 +1115,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
     },
     {
       "name": "Wrapped ETC on xDai",
