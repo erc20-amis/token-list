@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-02-21T00:05:49.161Z",
+  "timestamp": "2021-02-23T12:05:49.161Z",
   "version": {
     "major": 5,
-    "minor": 4,
-    "patch": 10
+    "minor": 5,
+    "patch": 11
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -77,6 +77,14 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
     },
+    {
+      "name": "AMISDEXP",
+      "address": "0x9C374CC5da1D7EE668D4080287b104B865F3089e",
+      "symbol": "DEXP",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x949bed886c739f1a3273629b3320db0c5024c719.png"
+    },    
     {
       "name": "Ampleforth on xDai",
       "address": "0xC84DD5B971521B6C9fA5E10d25E6428b19710e05",
@@ -334,6 +342,14 @@
       "logoURI": "https://etherscan.io/token/images/davincicode_32.png"
     },
     {
+      "name": "DIGG on xDai",
+      "address": "0x6185B184B3bBD36331a7430A61d59C8EF2845c39",
+      "symbol": "DIGG",
+      "decimals": 9,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
+    },    
+    {
       "name": "Donut on xDai",
       "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
       "symbol": "DONUT",
@@ -549,6 +565,14 @@
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/lrc_32.png"
     },
+    {
+      "name": "Levin",
+      "address": "0x64e8A115Ec254A6A5949dbC5801A8Ccf3AE4F72F",
+      "symbol": "LVN",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://app.levinswap.org/static/media/logo.f23cd713.svg"
+    },    
     {
       "name": "LUKSO Token on xDai",
       "address": "0x79CF2029717E2E78C8927F65F079Ab8dA21781Ee",
