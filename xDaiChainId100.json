@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-02-23T12:05:49.161Z",
+  "timestamp": "2021-02-23T12:15:49.161Z",
   "version": {
     "major": 5,
     "minor": 5,
-    "patch": 11
+    "patch": 12
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -347,7 +347,7 @@
       "symbol": "DIGG",
       "decimals": 9,
       "chainId": 100,
-      "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
+      "logoURI": "https://etherscan.io/token/images/badger-digg_32.png"
     },    
     {
       "name": "Donut on xDai",
