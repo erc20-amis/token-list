@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-02-23T12:15:49.161Z",
+  "timestamp": "2021-02-28T00:15:49.161Z",
   "version": {
     "major": 5,
-    "minor": 5,
+    "minor": 6,
     "patch": 12
   },
   "tags": {},
@@ -1013,6 +1013,14 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
+    {
+      "name": "USDP Stablecoin on xDai",
+      "address": "0xFe7ed09C4956f7cdb54eC4ffCB9818Db2D7025b8",
+      "symbol": "USDP",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/USDPStablecoin_32.png"
+    },    
     {
       "name": "Tether on xDai",
       "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
