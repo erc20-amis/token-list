@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-03-05T05:15:49.161Z",
+  "timestamp": "2021-03-06T00:01:49.161Z",
   "version": {
     "major": 5,
     "minor": 7,
-    "patch": 12
+    "patch": 13
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -553,7 +553,7 @@
       "name": "Huobi BTC",
       "address": "0xd87FCB23da48D4D9B70c6F39B46debb5d993Ad19",
       "symbol": "HBTC",
-      "decimals": 8,
+      "decimals": 18,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/12407/small/Unknown-5.png"
     },    
