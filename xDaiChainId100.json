@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-03-06T00:01:49.161Z",
+  "timestamp": "2021-03-06T00:01:50.161Z",
   "version": {
     "major": 5,
     "minor": 7,
-    "patch": 13
+    "patch": 14
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -393,7 +393,7 @@
       "name": "Binance-Peg Dego.finance Token on xDai",
       "address": "0xa2785d81fC93a78b4b1928Aba8e171B6aaFee677",
       "symbol": "DEGO",
-      "decimals": 9,
+      "decimals": 18,
       "chainId": 100,
       "logoURI": "https://bscscan.com/token/images/dego_32.png"
     },    
