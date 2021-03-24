@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-03-23T00:02:50.161Z",
+  "timestamp": "2021-03-23T06:20:00.161Z",
   "version": {
     "major": 5,
     "minor": 8,
-    "patch": 14
+    "patch": 15
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -446,6 +446,14 @@
       "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
     },
     {
+      "name": "DXdao on xDai",
+      "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+      "symbol": "DXD",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/11148/small/dxdao.png"
+    },    
+    {
       "name": "Enigma on xDai",
       "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
       "symbol": "ENG",
@@ -516,22 +524,6 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/daostack1_28.png"
-    },
-    {
-      "name": "DXdao on xDai",
-      "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
-      "symbol": "DXD",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://assets.coingecko.com/coins/images/11148/small/dxdao.png"
-    },
-    {
-      "name": "GIMLU",
-      "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
-      "symbol": "GMLU",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://etherscan.io/images/main/empty-token.png"
     },    
     {
       "name": "Golden Bull Token on xDAI",
@@ -541,6 +533,14 @@
       "chainId": 100,
       "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
     },
+    {
+      "name": "GIMLU",
+      "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
+      "symbol": "GMLU",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png"
+    },    
     {
       "name": "Gnosis on xDai",
       "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
