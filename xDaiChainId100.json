@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-03-23T07:20:00.161Z",
+  "timestamp": "2021-03-23T07:30:00.161Z",
   "version": {
     "major": 5,
-    "minor": 8,
+    "minor": 9,
     "patch": 16
   },
   "tags": {},
@@ -445,6 +445,14 @@
       "chainId": 100,
       "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
     },
+    {
+      "name": "DXdao on xDai",
+      "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+      "symbol": "DXD",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/11148/small/dxdao.png"
+    },  
     {
       "name": "Enigma on xDai",
       "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
