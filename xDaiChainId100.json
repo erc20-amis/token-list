@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-03-06T00:01:50.161Z",
+  "timestamp": "2021-03-23T00:02:50.161Z",
   "version": {
     "major": 5,
-    "minor": 7,
+    "minor": 8,
     "patch": 14
   },
   "tags": {},
@@ -518,6 +518,22 @@
       "logoURI": "https://etherscan.io/token/images/daostack1_28.png"
     },
     {
+      "name": "DXdao on xDai",
+      "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+      "symbol": "DXD",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/11148/small/dxdao.png"
+    },
+    {
+      "name": "GIMLU",
+      "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
+      "symbol": "GMLU",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png"
+    },    
+    {
       "name": "Golden Bull Token on xDAI",
       "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
       "symbol": "GLDB",
@@ -733,6 +749,14 @@
       "chainId": 100,
       "logoURI": "https://etherscan.io/images/main/empty-token.png"
     },
+    {
+      "name": "MEW2",
+      "address": "0x7712e89e1aCf259AA56d1783F601a0b8B0e2Fc7D",
+      "symbol": "MEW2",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png"
+    },    
     {
       "name": "Maker on xDai",
       "address": "0x5fd896D248fbfa54d26855C267859eb1b4DAEe72",
