@@ -1,10 +1,10 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-03-23T07:30:00.161Z",
+  "timestamp": "2021-05-06T00:30:00.161Z",
   "version": {
     "major": 5,
-    "minor": 9,
-    "patch": 16
+    "minor": 10,
+    "patch": 17
   },
   "tags": {},
   "logoURI": "ipfs://QmZsKifgMvQxeo7J5E8CrvGtKzSdGQ232Y256wbH17q3gA",
@@ -416,7 +416,7 @@
     {
       "name": "DeFiPulse Index",
       "address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
-      "symbol": "DIP",
+      "symbol": "DPI",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png"
@@ -428,6 +428,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png"
+    },
+    {
+      "name": "Dogecoin BSC on xDai",
+      "address": "0xd7738ec74f08f3a14c478bbecce9c3f5603ba458",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/5/small/dogecoin.png"
     },    
     {
       "name": "Donut on xDai",
@@ -526,6 +534,14 @@
       "logoURI": "https://etherscan.io/token/images/daostack1_28.png"
     },
     {
+      "name": "GIMLU",
+      "address": "0x000000000097658392368828c0163f62989bd0e4",
+      "symbol": "GMLU",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
+    },    
+    {
       "name": "Golden Bull Token on xDAI",
       "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
       "symbol": "GLDB",
@@ -549,6 +565,14 @@
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/TheGraph_32.png"
     },
+    {
+      "name": "Haus",
+      "address": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
+      "symbol": "HAUS",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://daohaus.club/static/media/haus__icon.439c0f8e.png"
+    },    
     {
       "name": "HEX on xDai",
       "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
@@ -679,6 +703,14 @@
     },
     {
       "name": "Levin",
+      "address": "0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa",
+      "symbol": "LEVIN",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://app.levinswap.org/static/media/logo.f23cd713.svg"
+    },     
+    {
+      "name": "Levin",
       "address": "0x64e8A115Ec254A6A5949dbC5801A8Ccf3AE4F72F",
       "symbol": "LVN",
       "decimals": 18,
@@ -741,6 +773,14 @@
       "chainId": 100,
       "logoURI": "https://etherscan.io/images/main/empty-token.png"
     },
+    {
+      "name": "Minerva Wallet SuperToken",
+      "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+      "symbol": "MIVA",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://minerva.digital/i/MIVA-Token_200x200.png"
+    },    
     {
       "name": "Maker on xDai",
       "address": "0x5fd896D248fbfa54d26855C267859eb1b4DAEe72",
@@ -846,6 +886,14 @@
       "logoURI": "https://etherscan.io/token/images/OMGNetwork_32.png"
     },
     {
+      "name": "OKB",
+      "address": "0x4eFDfbb7Cca540a79A7e4dCaD1cb6ED14f21c43e",
+      "symbol": "OKB",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/4463/small/okb_token.png"
+    },   
+    {
       "name": "OWL on xDai",
       "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
       "symbol": "OWL",
@@ -854,22 +902,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11149/small/gnosis-owl_32.png"
     },
     {
-      "name": "OKB",
-      "address": "0x4eFDfbb7Cca540a79A7e4dCaD1cb6ED14f21c43e",
-      "symbol": "OKB",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://assets.coingecko.com/coins/images/4463/small/okb_token.png"
-    },
-    {
-      "name": "Perpetual Finance",
-      "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
-      "symbol": "PERP",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg"
-    },    
-    {
       "name": "Panvala pan on xDai",
       "address": "0x981fB9BA94078a2275A8fc906898ea107B9462A8",
       "symbol": "PAN",
@@ -877,6 +909,14 @@
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/9543/small/pan-logo.png"
     },
+    {
+      "name": "Perpetual Finance on xDai",
+      "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+      "symbol": "PERP",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg"
+    },     
     {
       "name": "Polyient Games Governance Token",
       "address": "0x6099280dC5FC97CBB61B456246316a1B8f79534B",
@@ -941,6 +981,22 @@
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/powertrade_32.png"
     },
+    {
+      "name": "Rare Coin",
+      "address": "0xCF740AC463098E442B31A5E88F4b359B30255616",
+      "symbol": "RARE",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo-multi.png"
+    },
+    {
+      "name": "Rare Coin v2",
+      "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
+      "symbol": "RAREv2",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png"
+    },    
     {
       "name": "Rarible on xDai",
       "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
@@ -1044,6 +1100,22 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
+    },
+    {
+      "name": "Shenanigan SHWEATPANTS v3",
+      "address": "0x11c9f4c3e960cce4464e25a9fa5414ab72fc45ea",
+      "symbol": "SHWEATPANTS",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"
+    },
+    {
+      "name": "SNAFU",
+      "address": "0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862",
+      "symbol": "SNAFU",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://gateway.ipfs.io/ipfs/QmaEPqRKrJDN8iNKVSFj19rbHzZSyWENdj241oek3EJYn7"
     },
     {
       "name": "Status Network Token on xDai",
@@ -1174,6 +1246,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e/logo.png"
     },
     {
+      "name": "UNCL on xDai",
+      "address": "0x703120F2f2011a0D03A03a531Ac0e84e81F15989",
+      "symbol": "UNCL",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://etherscan.io/token/images/unicrypt-uncl_32.png"
+    },    
+    {
       "name": "UniCrypt on xDai",
       "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
       "symbol": "UNCX",
@@ -1277,6 +1357,14 @@
       "chainId": 100,
       "logoURI": "https://xion.finance/images/xgt_icon.png"
     },
+    {
+      "name": "Standard on xDai",
+      "address": "0x3e33cF23073FD8d5aD1d48d1860a96C0D8E56193",
+      "symbol": "xMARK",
+      "decimals": 9,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67c597624B17b16fb77959217360B7cD18284253/logo.png"
+    },    
     {
       "name": "xMOON on xDai",
       "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
