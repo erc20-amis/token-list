@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-05-06T00:30:00.161Z",
+  "timestamp": "2021-05-07T00:30:00.161Z",
   "version": {
     "major": 5,
-    "minor": 10,
+    "minor": 11,
     "patch": 17
   },
   "tags": {},
@@ -433,7 +433,7 @@
       "name": "Dogecoin BSC on xDai",
       "address": "0xd7738ec74f08f3a14c478bbecce9c3f5603ba458",
       "symbol": "DOGE",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/5/small/dogecoin.png"
     },    
@@ -510,6 +510,14 @@
       "logoURI": "https://freedomreserv.eth.link/img/freedomcoin400x400.png"
     },
     {
+      "name": "Own a fraction",
+      "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+      "symbol": "FRACTION",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon-Honeyswap-200x200.png"
+    },    
+    {
       "name": "FalconSwap Token on xDai",
       "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
       "symbol": "FSW",
@@ -539,7 +547,7 @@
       "symbol": "GMLU",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
+      "logoURI": "https://etherscan.io/token/images/"
     },    
     {
       "name": "Golden Bull Token on xDAI",
@@ -702,7 +710,7 @@
       "logoURI": "https://etherscan.io/token/images/lrc_32.png"
     },
     {
-      "name": "Levin",
+      "name": "LEVIN",
       "address": "0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa",
       "symbol": "LEVIN",
       "decimals": 18,
@@ -1070,7 +1078,7 @@
       "logoURI": "https://etherscan.io/token/images/reserverights_32.png"
     },
     {
-      "name": "Thorchain Rune",
+      "name": "Thorchain Rune on xDai",
       "address": "0x4c68041898bfEfbfCc4253fbE8eD30830E6eb767",
       "symbol": "RUNE",
       "decimals": 18,
