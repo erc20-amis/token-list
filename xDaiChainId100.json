@@ -1,9 +1,9 @@
 {
   "name": "Amis 100",
-  "timestamp": "2021-05-07T00:30:00.161Z",
+  "timestamp": "2021-05-08T00:30:00.161Z",
   "version": {
     "major": 5,
-    "minor": 11,
+    "minor": 12,
     "patch": 17
   },
   "tags": {},
@@ -1158,6 +1158,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
     },
     {
+      "name": "Liquid staked Ether 2.0 on xDai",
+      "address": "0x3C037849a8ffcf19886e2f5B04f293B7847D0377",
+      "symbol": "stETH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    },    
+    {
       "name": "StorjToken on xDai",
       "address": "0xBc650b9cC12dB4da14b2417c60CCd6F4d77c3998",
       "symbol": "STORJ",
@@ -1317,6 +1325,22 @@
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
+    {
+      "name": "Wrapped BTC - renBTC pair on xDai",
+      "address": "0x84f2ffebdb56f539d5ababfa37d17d38cb703a9e",
+      "symbol": "WBTC-renBTC",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "WBTCrenBTC-xDai pair",
+      "address": "0xb6d0efDf2d87061B0ff900e56f8BC771b6FA9EAb",
+      "symbol": "WBTCrenBTC-xDai",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },     
     {
       "name": "Wrapped Ether on xDai",
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
